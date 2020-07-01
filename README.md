@@ -15,6 +15,9 @@ This repository contains **Dockerfile** of [apache-airflow](https://github.com/a
 * Install [Docker Compose](https://docs.docker.com/compose/install/)
 * Following the Airflow release from [Python Package Index](https://pypi.python.org/pypi/apache-airflow)
 
+## Quick start (yennj12's update)
+- [quick_start.md](https://github.com/yennanliu/docker-airflow/blob/master/doc/quick_start.md)
+
 ## Installation
 
 Pull the image from the Docker repository.
