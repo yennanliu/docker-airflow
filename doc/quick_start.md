@@ -26,3 +26,7 @@ cd docker-airflow
 docker-compose -f docker-compose-CeleryExecutor.yml up -d 
 # Airflow UI : localhost:8080
 ```
+
+#### Ref
+- airflow basic config for prod
+	- https://medium.com/@apratamamia/airflow-basic-configuration-for-production-environment-2f69ab0c6f2c
